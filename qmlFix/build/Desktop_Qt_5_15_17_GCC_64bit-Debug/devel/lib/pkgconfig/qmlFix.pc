@@ -1,8 +1,0 @@
-prefix=/home/khanh/qt_projects/qmlFix/build/Desktop_Qt_5_15_17_GCC_64bit-Debug/devel
-
-Name: qmlFix
-Description: Description of qmlFix
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: roscpp std_msgs
